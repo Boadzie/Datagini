@@ -1,0 +1,10 @@
+body,
+html {
+    font-family: 'Thasadith',
+        sans-serif;
+    background-color: beige;
+}
+
+.space {
+    margin-top: 20px;
+}
